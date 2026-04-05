@@ -1,5 +1,16 @@
+# Environment file
 .env
+
+# Dependencies
 vendor/
 node_modules/
+
+# IDE files
 .vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
 
